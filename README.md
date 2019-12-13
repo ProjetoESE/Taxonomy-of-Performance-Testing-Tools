@@ -15,6 +15,6 @@ Folder “**Common files**”: General files used in experiment.
 Folder “**Tool Classification**”: Tools are classified according to the activities that they support.
 
 ###### Authors
-[@VictorSCosta]( https://github.com/VictorSCosta )
-[@gutogirardon]( https://github.com/gutogirardon )
-[@maiconbernardino]( https://github.com/maiconbernardino )
+- [@VictorSCosta]( https://github.com/VictorSCosta )
+- [@gutogirardon]( https://github.com/gutogirardon )
+- [@maiconbernardino]( https://github.com/maiconbernardino )
